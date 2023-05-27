@@ -2,4 +2,4 @@
 
 ### Kotlin
 
-<img src="record.png" alt="Record" width="50%" height="auto">
+<img src="record.png" alt="Record" width="35%" height="auto">
